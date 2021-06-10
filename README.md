@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/@itsbkumar056" target="blank"><img src="https://img.shields.io/twitter/follow/@itsbkumar056?logo=twitter&style=for-the-badge" alt="@itsbkumar056" /></a> </p>
 
+- 🌱 I’m currently learning **Python|R|ML|Data Science|NGS**
+
+- 📫 How to reach me **bablukr056@gmail.com**
+
+- ⚡ Fun fact **Instead of the job I have, I’ve always dreamed to have my own research laboratory and always looking to collaborate with the research lab.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@itsbkumar056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsbkumar056" height="30" width="40" /></a>
