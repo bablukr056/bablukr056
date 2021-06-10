@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bablu kumar</h1>
 <h3 align="center">A Computational Biology masters student of Pondicherry University with bachelor's in B. Tech Biotechnology from Amity University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bablukr056" alt="bablukr056" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@itsbkumar056" target="blank"><img src="https://img.shields.io/twitter/follow/@itsbkumar056?logo=twitter&style=for-the-badge" alt="@itsbkumar056" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
