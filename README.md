@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bablu kumar</h1>
-<h3 align="center">A Computational Biology masters student of Pondicherry University with bachelor's in B. Tech Biotechnology from Amity University.</h3>
+<h3 align="center">A Computational Biology masters student of Pondicherry University with bachelor's in B. Tech Biotechnology from Amity University.Instead of the job I have, I’ve always dreamed to have my own research laboratory and always looking to collaborate with the research lab.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablukr056&label=Profile%20views&color=0e75b6&style=flat" alt="bablukr056" /> </p>
 
@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Python|R|ML|Data Science|NGS**
 
+- 💬 Ask me about **Ask me how much I do love programing.**
+
 - 📫 How to reach me **bablukr056@gmail.com**
 
-- ⚡ Fun fact **Instead of the job I have, I’ve always dreamed to have my own research laboratory and always looking to collaborate with the research lab.**
+- ⚡ Fun fact **I think I am very romantic with programing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
