@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python|R|ML|Data Science|NGS**
 
-- 💬 Ask me about **Ask me how much I do love programing.**
+- 💬 Ask me about **Ask me how much I do love programing?**
 
 - 📫 How to reach me **bablukr056@gmail.com**
 
