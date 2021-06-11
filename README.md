@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/@itsbkumar056" target="blank"><img src="https://img.shields.io/twitter/follow/@itsbkumar056?logo=twitter&style=for-the-badge" alt="@itsbkumar056" /></a> </p>
 
-- 🌱 I’m currently learning **Python|R|ML|Data Science|NGS**
+- 🌱 I’m currently learning **: Python|R|ML|Data Science|NGS**
 
-- 💬 Ask me about **Ask me how much I do love programing?**
+- 💬 Ask me about **: Ask me how much I do love programing?**
 
-- 📫 How to reach me **bablukr056@gmail.com**
+- 📫 How to reach me **: bablukr056@gmail.com**
 
-- ⚡ Fun fact **I think I am very romantic with programing.**
+- ⚡ Fun fact **: I think I am very romantic with programing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
