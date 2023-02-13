@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablukr056&label=Profile%20views&color=0e75b6&style=flat" alt="bablukr056" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@itsbkumar056" target="blank"><img src="https://img.shields.io/twitter/follow/@itsbkumar056?logo=twitter&style=for-the-badge" alt="@itsbkumar056" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wet2drylab" target="blank"><img src="https://img.shields.io/twitter/follow/@itsbkumar056?logo=twitter&style=for-the-badge" alt="@iwet2drylab" /></a> </p>
 
 - 🌱 I’m currently learning **: Python|R|ML|Data Science|NGS**
 
