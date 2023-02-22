@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/wet2drylab" target="blank"><img src="https://img.shields.io/twitter/follow/@itsbkumar056?logo=twitter&style=for-the-badge" alt="@iwet2drylab" /></a> </p>
 
-- 🌱 I’m currently learning **: Python|R|ML|Data Science|NGS**
 
-- 💬 Ask me about **: Ask me how much I do love programming?**
 
-- 📫 How to reach me **: bablukr056@gmail.com**
+
+
+- 📫 How to reach me **: bablukr056@gmail.com, bablu.kumar@unimi.it, bablu.kumar@uniba.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
