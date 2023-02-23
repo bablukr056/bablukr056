@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bablu kumar</h1>
-<h3 align="center">As a scientist, my work focuses on large-scale data analysis and computational biology. I have extensive experience with omics data analysis, including RNA-seq, as well as running and developing computational biology pipelines. I apply statistical and analytical approaches to interpret the results of these analyses and draw meaningful insights.
+<h3 align="center">As a PhD student, my work focuses on large-scale data analysis and computational biology. I have extensive experience with omics data analysis, including RNA-seq, as well as running and developing computational biology pipelines. I apply statistical and analytical approaches to interpret the results of these analyses and draw meaningful insights.
 
 To support my research, I have developed strong proficiency in several programming languages, including Python, R, and Bash. Additionally, I have experience working with relational databases, such as MySQL, to store and manage large datasets.
 
