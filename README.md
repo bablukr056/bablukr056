@@ -22,7 +22,7 @@
 ## 🧑‍🏫 Training & Mentorship
 
 I’ve had the opportunity to train and guide:
-- **75+ PhD candidates**
+- **50+ PhD candidates**
 - **20+ researchers and postdocs**
 - **100+ Master’s students** + **B.Tech/B.Sc. students**
 - **30+ industry professionals**  
