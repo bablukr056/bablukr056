@@ -2,10 +2,16 @@
 
 ![Bablu Kumar](https://raw.githubusercontent.com/bablukr056/bablukr056/999388d8034e5f4006888cda894299da5e5dc7a2/bablu.jpeg)
 
-🎓 **PhD in Systems Medicine (Computational Biology)**  
-**European School of Molecular Medicine (SEMM), Italy**  
-🛰️ Former **Visiting Scholar at NASA-JPL (Jet Propulsion Laboratory, USA)**  
-🌍 Currently a **Visiting Research Fellow at Vilnius University, Lithuania**  
+- 🎓 **PhD in Systems Medicine (Computational Biology)**  
+  - **European School of Molecular Medicine (SEMM), Italy**
+  - **University of Milan & University of Bari, Italy**
+
+- 🛰️ **Former Visiting Scholar**  
+  - **NASA-JPL (Jet Propulsion Laboratory, USA)**
+
+- 🌍 **Currently Visiting Research Fellow**  
+  - **Vilnius University, Lithuania**
+
 ---
 
 ## 🔬 Research Interests
