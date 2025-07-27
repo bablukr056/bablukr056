@@ -6,7 +6,6 @@
 **European School of Molecular Medicine (SEMM), Italy**  
 🛰️ Former **Visiting Scholar at NASA-JPL (Jet Propulsion Laboratory, USA)**  
 🌍 Currently a **Visiting Research Fellow at Vilnius University, Lithuania**  
-
 ---
 
 ## 🔬 Research Interests
@@ -23,12 +22,11 @@
 ## 🧑‍🏫 Training & Mentorship
 
 I’ve had the opportunity to train and guide:
-- **30+ PhD candidates**
+- **75+ PhD candidates**
 - **20+ researchers and postdocs**
-- **100+ Master’s students**
-- **30+ B.Tech/B.Sc. students**
-- **20+ industry professionals**  
-...in areas like bioinformatics, NGS analysis, microbiome science, and machine learning.
+- **100+ Master’s students** + **B.Tech/B.Sc. students**
+- **30+ industry professionals**  
+...in areas like bioinformatics, NGS analysis, microbiome, and machine learning.
 
 ---
 
