@@ -1,3 +1,53 @@
+# 👋 Hi, I'm Bablu Kumar
+
+🎓 **PhD in Systems Medicine (Computational Biology)**  
+**European School of Molecular Medicine (SEMM), Italy**  
+🛰️ Former **Visiting Scholar at NASA-JPL (Jet Propulsion Laboratory, USA)**  
+🌍 Currently a **Visiting Research Fellow at Vilnius University, Lithuania**  
+
+---
+
+## 🔬 Research Interests
+
+- Human Gut Microbiome  
+- Bacteriophage Discovery and Functional Annotation  
+- NGS Data Analysis (Illumina)  
+- NGS Pipeline Development and Optimization  
+- Machine Learning for Microbiome-Based Health Prediction  
+- DNA/Protein Language Models (focused on CRISPR-Cas)
+
+---
+
+## 🧑‍🏫 Training & Mentorship
+
+I’ve had the opportunity to train and guide:
+- **30+ PhD candidates**
+- **20+ researchers and postdocs**
+- **100+ Master’s students**
+- **30+ B.Tech/B.Sc. students**
+- **20+ industry professionals**  
+...in areas like bioinformatics, NGS analysis, microbiome science, and machine learning.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming**: Python, Bash  
+- **Machine Learning Models**: Random Forest (RF), Support Vector Machine (SVM), Logistic Regression  
+- **NGS Analysis**: Quality control, read processing, taxonomic/functional profiling  
+- **HPC Environments**: High-throughput computing using HTCondor  
+- **Resource & Job Management** on clusters  
+- **Data Visualization**: pandas, seaborn, matplotlib
+
+---
+
+## 📍 Current Focus
+
+I’m currently applying AI tools and classical ML approaches to understand gut microbiome patterns and improve disease prediction, with a special focus on identifying unknown bacterial and viral signatures using NGS data.
+
+---
+
+📫 Feel free to connect with me for collaborations, mentoring, or microbiome/NGS-related discussions!
 
 - 📫 How to reach me **: bablukr056@gmail.com, bablu.kumar@unimi.it, bablu.kumar@uniba.it**
 
