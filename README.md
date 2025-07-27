@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Bablu Kumar
 
+![Bablu Kumar](https://raw.githubusercontent.com/bablukr056/bablukr056/999388d8034e5f4006888cda894299da5e5dc7a2/bablu.jpeg)
+
 🎓 **PhD in Systems Medicine (Computational Biology)**  
 **European School of Molecular Medicine (SEMM), Italy**  
 🛰️ Former **Visiting Scholar at NASA-JPL (Jet Propulsion Laboratory, USA)**  
