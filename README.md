@@ -10,7 +10,7 @@
   - **NASA-JPL (Jet Propulsion Laboratory, USA)**
 
 - 🌍 **Currently Visiting Research Fellow**  
-  - **Vilnius University, Lithuania**
+  - **Life Sciences Center at Vilnius University, Lithuania**
 
 ---
 
