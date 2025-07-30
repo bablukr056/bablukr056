@@ -7,19 +7,14 @@
 - 🎓 **Ph.D. in Systems Medicine (Computational Biology)**  
   - *European School of Molecular Medicine (SEMM), Italy*  
   - *University of Milan & University of Bari, Italy*
-
-- 🚀 **Former Visiting Scholar**  
-  - *NASA Jet Propulsion Laboratory (JPL), USA*
-
-- 🌍 **Current Visiting Research Fellow**  
-  - *Life Sciences Center, Vilnius University, Lithuania*
-
+- 🌍 **Current Visiting Research Fellow (Sept 2024)**  
+  - *Life Sciences Center, Vilnius University, Lithuania* 
+- 🚀 **Visiting Student Researcher (2024)**  
+  - *NASA Jet Propulsion Laboratory (JPL), USA – JPL Visiting Student Research Program*
 - 🧬 **Master of Technology (M.Tech) in Computational Biology**  
   - *Pondicherry University (2020–2022), India*
-
 - 🔬 **Bachelor of Technology (B.Tech) in Biotechnology Engineering**  
   - *Amity University, Gurugram (2016-2022), India*
-
 ---
 
 ## 🔬 Research Interests
@@ -46,13 +41,12 @@ I’ve had the opportunity to train and guide:
 
 ## 🛠️ Technical Skills
 
-- **Programming**: Python, Bash  
+- **Programming**: Python, R, Bash  
 - **Machine Learning Models**: Random Forest (RF), Support Vector Machine (SVM), Logistic Regression  
 - **NGS Analysis**: Quality control, read processing, taxonomic/functional profiling  
 - **HPC Environments**: High-throughput computing using HTCondor  
 - **Resource & Job Management** on clusters  
-- **Data Visualization**: pandas, seaborn, matplotlib
-
+- **Data Visualization**:
 ---
 
 ## 📍 Current Focus
