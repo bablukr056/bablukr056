@@ -4,10 +4,10 @@
 
 ## 👨‍🔬 Academic Background
 
-- 🎓 **Ph.D. in Systems Medicine (Computational Biology)**  
+- 🎓 **Ph.D. in Systems Medicine (Computational Biology) (2022-2026)**  
   - *European School of Molecular Medicine (SEMM), Italy*  
   - *University of Milan & University of Bari, Italy*
-- 🌍 **Current Visiting Research Fellow (Sept 2024)**  
+- 🌍 **Current Visiting Research Fellow (Sept 2024 to Current)**  
   - *Life Sciences Center, Vilnius University, Lithuania* 
 - 🚀 **Visiting Student Researcher (2024)**  
   - *NASA Jet Propulsion Laboratory (JPL), USA – JPL Visiting Student Research Program*
