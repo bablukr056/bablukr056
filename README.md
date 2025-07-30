@@ -2,21 +2,29 @@
 
 ![Bablu Kumar](https://raw.githubusercontent.com/bablukr056/bablukr056/999388d8034e5f4006888cda894299da5e5dc7a2/bablu.jpeg)
 
-- 🎓 **PhD in Systems Medicine (Computational Biology)**  
-  - **European School of Molecular Medicine (SEMM), Italy**
-  - **University of Milan & University of Bari, Italy**
+## 👨‍🔬 Academic Background
 
-- 🛰️ **Former Visiting Scholar**  
-  - **NASA-JPL (Jet Propulsion Laboratory, USA)**
+- 🎓 **Ph.D. in Systems Medicine (Computational Biology)**  
+  - *European School of Molecular Medicine (SEMM), Italy*  
+  - *University of Milan & University of Bari, Italy*
 
-- 🌍 **Currently Visiting Research Fellow**  
-  - **Life Sciences Center at Vilnius University, Lithuania**
+- 🚀 **Former Visiting Scholar**  
+  - *NASA Jet Propulsion Laboratory (JPL), USA*
+
+- 🌍 **Current Visiting Research Fellow**  
+  - *Life Sciences Center, Vilnius University, Lithuania*
+
+- 🧬 **Master of Technology (M.Tech) in Computational Biology**  
+  - *Pondicherry University (2020–2022), India*
+
+- 🔬 **Bachelor of Technology (B.Tech) in Biotechnology Engineering**  
+  - *Amity University, Gurugram (2016-2022), India*
 
 ---
 
 ## 🔬 Research Interests
 
-- Human Gut Microbiome  
+- Human Gut Microbiome (Bacteria & Bacteriophages)
 - Bacteriophage Discovery and Functional Annotation  
 - NGS Data Analysis (Illumina)  
 - NGS Pipeline Development and Optimization  
