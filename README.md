@@ -46,7 +46,7 @@ I’ve had the opportunity to train and guide:
 - **NGS Analysis**: Quality control, read processing, taxonomic/functional profiling  
 - **HPC Environments**: High-throughput computing using HTCondor  
 - **Resource & Job Management** on clusters  
-- **Data Visualization**:
+- **Data Visualization**
 ---
 
 ## 📍 Current Focus
